@@ -2,8 +2,8 @@ name: Poll Boxing Odds
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # Every 30 minutes
-  workflow_dispatch:         # Manual trigger
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   poll:
@@ -17,7 +17,9 @@ jobs:
           python-version: '3.10'
       
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install --upgrade pip
+          pip install requests
       
       - name: Run fetcher
         run: python utils/odds_fetcher.py
