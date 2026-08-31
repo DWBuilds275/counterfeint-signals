@@ -1,0 +1,33 @@
+name: Poll Boxing Odds
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # Every 30 minutes
+  workflow_dispatch:         # Manual trigger
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Run fetcher
+        run: python utils/odds_fetcher.py
+        env:
+          OPENODDS_API_KEY: ${{ secrets.OPENODDS_API_KEY }}
+      
+      - name: Commit and push updates
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+          git add data/upcoming_fights.json
+          git commit -m "Auto-update odds data" || exit 0
+          git push
