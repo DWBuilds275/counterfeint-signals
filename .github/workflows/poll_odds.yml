@@ -2,17 +2,22 @@ name: Poll Boxing Odds
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
+    - cron: '*/30 * * * *'   # Every 30 minutes
+  workflow_dispatch:         # Manual trigger
+
+# Grant write permissions to the workflow
+permissions:
+  contents: write
 
 jobs:
   poll:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
       
@@ -30,7 +35,7 @@ jobs:
           ls -la
           ls -la utils/ || echo "utils folder not found"
       
-      - name: Debug - test Python
+      - name: Debug - test Python import
         run: python -c "import requests; print('requests imported successfully')"
       
       - name: Run fetcher
@@ -40,8 +45,12 @@ jobs:
       
       - name: Commit and push updates
         run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/upcoming_fights.json
-          git commit -m "Auto-update odds data" || exit 0
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-update odds data"
+            git push
+          fi
