@@ -21,19 +21,17 @@ jobs:
           pip install --upgrade pip
           pip install requests
       
+      - name: Create data directory
+        run: mkdir -p data
+      
       - name: Debug - list files
         run: |
           pwd
           ls -la
           ls -la utils/ || echo "utils folder not found"
       
-      - name: Debug - test Python import
+      - name: Debug - test Python
         run: python -c "import requests; print('requests imported successfully')"
-      
-      - name: Debug - test fetcher script
-        run: python -c "import utils.odds_fetcher; print('module loaded')"
-        env:
-          OPENODDS_API_KEY: ${{ secrets.OPENODDS_API_KEY }}
       
       - name: Run fetcher
         run: python utils/odds_fetcher.py
