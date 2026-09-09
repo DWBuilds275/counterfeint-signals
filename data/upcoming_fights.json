@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-09-09T16:59:09.376529",
+  "timestamp": "2026-09-09T19:39:08.938070",
   "events": [
     {
       "id": "Dominic_Valle_vs_Francois_Scarboro_Jr",
@@ -11,7 +11,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -31,7 +31,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -55,27 +55,27 @@
       ]
     },
     {
-      "id": "Mark_Magsayo_vs_Andres_Cortes",
+      "id": "Luis_Alberto_Lopez_vs_Daniel_Lugo",
       "sport_title": "Boxing",
-      "home_team": "Mark Magsayo",
-      "away_team": "Andres Cortes",
-      "commence_time": "2026-09-12T17:00:00.000Z",
+      "home_team": "Luis Alberto Lopez",
+      "away_team": "Daniel Lugo",
+      "commence_time": "2026-09-12T01:00:00.000Z",
       "bookmakers": [
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Mark Magsayo",
-                  "price": 102
+                  "name": "Luis Alberto Lopez",
+                  "price": -667
                 },
                 {
-                  "name": "Andres Cortes",
-                  "price": -121
+                  "name": "Daniel Lugo",
+                  "price": 476
                 }
               ]
             }
@@ -84,42 +84,75 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Mark Magsayo",
-                  "price": -107
+                  "name": "Luis Alberto Lopez",
+                  "price": -670
                 },
                 {
                   "name": "X",
-                  "price": 1300
+                  "price": 1800
                 },
                 {
-                  "name": "Andres Cortes",
-                  "price": -106
+                  "name": "Daniel Lugo",
+                  "price": 525
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Giovani_Santillan_vs_Abass_Baraou",
+      "sport_title": "Boxing",
+      "home_team": "Giovani Santillan",
+      "away_team": "Abass Baraou",
+      "commence_time": "2026-09-12T02:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Giovani Santillan",
+                  "price": 285
+                },
+                {
+                  "name": "Abass Baraou",
+                  "price": -361
                 }
               ]
             }
           ]
         },
         {
-          "key": "betrivers",
-          "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Mark Magsayo",
-                  "price": -115
+                  "name": "Giovani Santillan",
+                  "price": 290
                 },
                 {
-                  "name": "Andres Cortes",
-                  "price": -114
+                  "name": "X",
+                  "price": 1600
+                },
+                {
+                  "name": "Abass Baraou",
+                  "price": -360
                 }
               ]
             }
@@ -137,7 +170,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -157,7 +190,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -190,7 +223,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -210,7 +243,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -234,132 +267,6 @@
       ]
     },
     {
-      "id": "Abel_Gonzalez_vs_Raul_Salomon",
-      "sport_title": "Boxing",
-      "home_team": "Abel Gonzalez",
-      "away_team": "Raul Salomon",
-      "commence_time": "2026-09-12T17:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abel Gonzalez",
-                  "price": -1250
-                },
-                {
-                  "name": "Raul Salomon",
-                  "price": 754
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Abel Gonzalez",
-                  "price": -910
-                },
-                {
-                  "name": "X",
-                  "price": 1800
-                },
-                {
-                  "name": "Raul Salomon",
-                  "price": 700
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Noel_Mikaelian_vs_Jai_Opetaia",
-      "sport_title": "Boxing",
-      "home_team": "Noel Mikaelian",
-      "away_team": "Jai Opetaia",
-      "commence_time": "2026-09-13T02:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jai Opetaia",
-                  "price": -1577
-                },
-                {
-                  "name": "Noel Mikaelian",
-                  "price": 874
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jai Opetaia",
-                  "price": -1115
-                },
-                {
-                  "name": "X",
-                  "price": 2000
-                },
-                {
-                  "name": "Noel Mikaelian",
-                  "price": 800
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betrivers",
-          "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jai Opetaia",
-                  "price": -1430
-                },
-                {
-                  "name": "Noel Mikaelian",
-                  "price": 800
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "Mike_Tyson_vs_Floyd_Mayweather_Jr",
       "sport_title": "Boxing",
       "home_team": "Mike Tyson",
@@ -369,7 +276,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -389,141 +296,6 @@
       ]
     },
     {
-      "id": "Raphael_Akpejiori_vs_Damazion_Vanhouter",
-      "sport_title": "Boxing",
-      "home_team": "Raphael Akpejiori",
-      "away_team": "Damazion Vanhouter",
-      "commence_time": "2026-09-13T01:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Damazion Vanhouter",
-                  "price": -2151
-                },
-                {
-                  "name": "Raphael Akpejiori",
-                  "price": 1043
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Damazion Vanhouter",
-                  "price": -1430
-                },
-                {
-                  "name": "X",
-                  "price": 2200
-                },
-                {
-                  "name": "Raphael Akpejiori",
-                  "price": 900
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Giovani_Santillan_vs_Abass_Baraou",
-      "sport_title": "Boxing",
-      "home_team": "Giovani Santillan",
-      "away_team": "Abass Baraou",
-      "commence_time": "2026-09-12T02:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Giovani Santillan",
-                  "price": 320
-                },
-                {
-                  "name": "Abass Baraou",
-                  "price": -413
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Giovani Santillan",
-                  "price": 290
-                },
-                {
-                  "name": "X",
-                  "price": 1600
-                },
-                {
-                  "name": "Abass Baraou",
-                  "price": -360
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Jai_Opetaia_vs_Norair_Mikaeljan",
-      "sport_title": "Boxing",
-      "home_team": "Jai Opetaia",
-      "away_team": "Norair Mikaeljan",
-      "commence_time": "2026-09-12T17:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Jai Opetaia",
-                  "price": -1500
-                },
-                {
-                  "name": "Norair Mikaeljan",
-                  "price": 847
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "Oswaldo_Jesus_Molina_Jimenez_vs_Pablo_Rubio_Jr",
       "sport_title": "Boxing",
       "home_team": "Oswaldo Jesus Molina Jimenez",
@@ -533,7 +305,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -553,27 +325,27 @@
       ]
     },
     {
-      "id": "Alexis_Rocha_vs_Jose_Ramirez",
+      "id": "Mark_Magsayo_vs_Andres_Cortes",
       "sport_title": "Boxing",
-      "home_team": "Alexis Rocha",
-      "away_team": "Jose Ramirez",
-      "commence_time": "2026-09-12T22:00:00.000Z",
+      "home_team": "Mark Magsayo",
+      "away_team": "Andres Cortes",
+      "commence_time": "2026-09-12T17:00:00.000Z",
       "bookmakers": [
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Jose Ramirez",
-                  "price": 288
+                  "name": "Mark Magsayo",
+                  "price": -101
                 },
                 {
-                  "name": "Alexis Rocha",
-                  "price": -366
+                  "name": "Andres Cortes",
+                  "price": -117
                 }
               ]
             }
@@ -582,75 +354,42 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Jose Ramirez",
-                  "price": 290
+                  "name": "Mark Magsayo",
+                  "price": -107
                 },
                 {
                   "name": "X",
-                  "price": 1800
+                  "price": 1300
                 },
                 {
-                  "name": "Alexis Rocha",
-                  "price": -375
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "Luis_Alberto_Lopez_vs_Daniel_Lugo",
-      "sport_title": "Boxing",
-      "home_team": "Luis Alberto Lopez",
-      "away_team": "Daniel Lugo",
-      "commence_time": "2026-09-12T01:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "pinnacle",
-          "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Luis Alberto Lopez",
-                  "price": -667
-                },
-                {
-                  "name": "Daniel Lugo",
-                  "price": 476
+                  "name": "Andres Cortes",
+                  "price": -106
                 }
               ]
             }
           ]
         },
         {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "key": "betrivers",
+          "title": "Betrivers",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Luis Alberto Lopez",
-                  "price": -670
+                  "name": "Mark Magsayo",
+                  "price": -115
                 },
                 {
-                  "name": "X",
-                  "price": 1800
-                },
-                {
-                  "name": "Daniel Lugo",
-                  "price": 525
+                  "name": "Andres Cortes",
+                  "price": -114
                 }
               ]
             }
@@ -668,7 +407,7 @@
         {
           "key": "pinnacle",
           "title": "Pinnacle",
-          "last_update": "2026-09-09T16:58:44.010Z",
+          "last_update": "2026-09-09T19:38:47.551Z",
           "markets": [
             {
               "key": "h2h",
@@ -688,7 +427,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -712,7 +451,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -732,6 +471,267 @@
       ]
     },
     {
+      "id": "Alexis_Rocha_vs_Jose_Ramirez",
+      "sport_title": "Boxing",
+      "home_team": "Alexis Rocha",
+      "away_team": "Jose Ramirez",
+      "commence_time": "2026-09-12T22:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jose Ramirez",
+                  "price": 288
+                },
+                {
+                  "name": "Alexis Rocha",
+                  "price": -366
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jose Ramirez",
+                  "price": 290
+                },
+                {
+                  "name": "X",
+                  "price": 1800
+                },
+                {
+                  "name": "Alexis Rocha",
+                  "price": -375
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Noel_Mikaelian_vs_Jai_Opetaia",
+      "sport_title": "Boxing",
+      "home_team": "Noel Mikaelian",
+      "away_team": "Jai Opetaia",
+      "commence_time": "2026-09-13T02:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jai Opetaia",
+                  "price": -1577
+                },
+                {
+                  "name": "Noel Mikaelian",
+                  "price": 874
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jai Opetaia",
+                  "price": -1115
+                },
+                {
+                  "name": "X",
+                  "price": 2000
+                },
+                {
+                  "name": "Noel Mikaelian",
+                  "price": 800
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "Betrivers",
+          "last_update": "2026-09-09T19:38:50.749Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jai Opetaia",
+                  "price": -1430
+                },
+                {
+                  "name": "Noel Mikaelian",
+                  "price": 800
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Jai_Opetaia_vs_Norair_Mikaeljan",
+      "sport_title": "Boxing",
+      "home_team": "Jai Opetaia",
+      "away_team": "Norair Mikaeljan",
+      "commence_time": "2026-09-12T17:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jai Opetaia",
+                  "price": -1500
+                },
+                {
+                  "name": "Norair Mikaeljan",
+                  "price": 847
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Raphael_Akpejiori_vs_Damazion_Vanhouter",
+      "sport_title": "Boxing",
+      "home_team": "Raphael Akpejiori",
+      "away_team": "Damazion Vanhouter",
+      "commence_time": "2026-09-13T01:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Damazion Vanhouter",
+                  "price": -2151
+                },
+                {
+                  "name": "Raphael Akpejiori",
+                  "price": 1043
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Damazion Vanhouter",
+                  "price": -1430
+                },
+                {
+                  "name": "X",
+                  "price": 2200
+                },
+                {
+                  "name": "Raphael Akpejiori",
+                  "price": 900
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Abel_Gonzalez_vs_Raul_Salomon",
+      "sport_title": "Boxing",
+      "home_team": "Abel Gonzalez",
+      "away_team": "Raul Salomon",
+      "commence_time": "2026-09-12T17:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-09-09T19:38:47.551Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Abel Gonzalez",
+                  "price": -1250
+                },
+                {
+                  "name": "Raul Salomon",
+                  "price": 754
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Abel Gonzalez",
+                  "price": -910
+                },
+                {
+                  "name": "X",
+                  "price": 1800
+                },
+                {
+                  "name": "Raul Salomon",
+                  "price": 700
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "Kieron_Conway_vs_Mark_Jeffers",
       "sport_title": "Boxing",
       "home_team": "Kieron Conway",
@@ -741,7 +741,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -774,7 +774,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -807,7 +807,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -840,7 +840,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -864,7 +864,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -893,7 +893,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -917,59 +917,6 @@
       ]
     },
     {
-      "id": "Takuma_Inoue_vs_Tenshin_Nasukawa",
-      "sport_title": "Boxing",
-      "home_team": "Takuma Inoue",
-      "away_team": "Tenshin Nasukawa",
-      "commence_time": "2026-09-27T06:00:00.000Z",
-      "bookmakers": [
-        {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Takuma Inoue",
-                  "price": -278
-                },
-                {
-                  "name": "X",
-                  "price": 1700
-                },
-                {
-                  "name": "Tenshin Nasukawa",
-                  "price": 225
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betrivers",
-          "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Takuma Inoue",
-                  "price": -305
-                },
-                {
-                  "name": "Tenshin Nasukawa",
-                  "price": 215
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "Ryosuke_Nishida_vs_Sam_Goodman",
       "sport_title": "Boxing",
       "home_team": "Ryosuke Nishida",
@@ -979,7 +926,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1003,7 +950,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1032,7 +979,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1056,7 +1003,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1076,6 +1023,59 @@
       ]
     },
     {
+      "id": "Takuma_Inoue_vs_Tenshin_Nasukawa",
+      "sport_title": "Boxing",
+      "home_team": "Takuma Inoue",
+      "away_team": "Tenshin Nasukawa",
+      "commence_time": "2026-09-27T06:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Takuma Inoue",
+                  "price": -278
+                },
+                {
+                  "name": "X",
+                  "price": 1700
+                },
+                {
+                  "name": "Tenshin Nasukawa",
+                  "price": 225
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "Betrivers",
+          "last_update": "2026-09-09T19:38:50.749Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Takuma Inoue",
+                  "price": -305
+                },
+                {
+                  "name": "Tenshin Nasukawa",
+                  "price": 215
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "Ben_Whittaker_vs_Conor_Wallace",
       "sport_title": "Boxing",
       "home_team": "Ben Whittaker",
@@ -1085,7 +1085,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1109,7 +1109,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1129,6 +1129,39 @@
       ]
     },
     {
+      "id": "Osleys_Iglesias_vs_Oliver_Zaren",
+      "sport_title": "Boxing",
+      "home_team": "Osleys Iglesias",
+      "away_team": "Oliver Zaren",
+      "commence_time": "2026-10-08T21:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Osleys Iglesias",
+                  "price": -1250
+                },
+                {
+                  "name": "X",
+                  "price": 1700
+                },
+                {
+                  "name": "Oliver Zaren",
+                  "price": 950
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "Ricardo_Sandoval_vs_Oscar_Collazo",
       "sport_title": "Boxing",
       "home_team": "Ricardo Sandoval",
@@ -1138,7 +1171,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1162,7 +1195,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1191,7 +1224,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1215,7 +1248,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1244,7 +1277,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1268,7 +1301,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1288,6 +1321,105 @@
       ]
     },
     {
+      "id": "Brandon_Figueroa_vs_Tomoki_Kameda",
+      "sport_title": "Boxing",
+      "home_team": "Brandon Figueroa",
+      "away_team": "Tomoki Kameda",
+      "commence_time": "2026-10-17T21:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Brandon Figueroa",
+                  "price": -435
+                },
+                {
+                  "name": "X",
+                  "price": 1700
+                },
+                {
+                  "name": "Tomoki Kameda",
+                  "price": 350
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Jermall_Charlo_vs_Koen_Mazoudier",
+      "sport_title": "Boxing",
+      "home_team": "Jermall Charlo",
+      "away_team": "Koen Mazoudier",
+      "commence_time": "2026-10-17T21:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Jermall Charlo",
+                  "price": -1115
+                },
+                {
+                  "name": "X",
+                  "price": 2200
+                },
+                {
+                  "name": "Koen Mazoudier",
+                  "price": 800
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Sebastian_Fundora_vs_Ermal_Hadribeaj",
+      "sport_title": "Boxing",
+      "home_team": "Sebastian Fundora",
+      "away_team": "Ermal Hadribeaj",
+      "commence_time": "2026-10-17T21:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-09-09T19:38:59.887Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Sebastian Fundora",
+                  "price": -835
+                },
+                {
+                  "name": "X",
+                  "price": 2200
+                },
+                {
+                  "name": "Ermal Hadribeaj",
+                  "price": 600
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "Shannon_Ryan_vs_Emma_Dolan",
       "sport_title": "Boxing",
       "home_team": "Shannon Ryan",
@@ -1297,7 +1429,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1321,7 +1453,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1350,7 +1482,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1374,7 +1506,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1403,7 +1535,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1427,7 +1559,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1456,7 +1588,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1480,7 +1612,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1509,7 +1641,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1533,7 +1665,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1562,7 +1694,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1586,7 +1718,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1615,7 +1747,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1639,7 +1771,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1668,7 +1800,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1692,7 +1824,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1721,7 +1853,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1745,7 +1877,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1774,7 +1906,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1798,7 +1930,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
@@ -1827,7 +1959,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-09-09T16:59:03.229Z",
+          "last_update": "2026-09-09T19:38:59.887Z",
           "markets": [
             {
               "key": "h2h",
@@ -1851,7 +1983,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-09-09T16:58:18.377Z",
+          "last_update": "2026-09-09T19:38:50.749Z",
           "markets": [
             {
               "key": "h2h",
