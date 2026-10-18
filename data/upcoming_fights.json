@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-18T20:56:34.676576",
+  "timestamp": "2026-10-18T22:47:39.759592",
   "events": [
     {
       "id": "Tyson_Fury_vs_Anthony_Joshua",
@@ -11,7 +11,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -29,9 +29,29 @@
           ]
         },
         {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-10-18T22:47:34.097Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Tyson Fury",
+                  "price": -179
+                },
+                {
+                  "name": "Anthony Joshua",
+                  "price": 155
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -64,7 +84,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -84,7 +104,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -108,7 +128,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -137,7 +157,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -155,9 +175,29 @@
           ]
         },
         {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-10-18T22:47:34.097Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Dalton Smith",
+                  "price": -207
+                },
+                {
+                  "name": "Alberto Puello",
+                  "price": 171
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -181,7 +221,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -210,7 +250,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -239,7 +279,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -257,9 +297,29 @@
           ]
         },
         {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-10-18T22:47:34.097Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Emanuel Navarrete",
+                  "price": 144
+                },
+                {
+                  "name": "O'Shaquie Foster",
+                  "price": -173
+                }
+              ]
+            }
+          ]
+        },
+        {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -283,7 +343,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -312,7 +372,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -341,7 +401,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -370,7 +430,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -399,7 +459,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -428,7 +488,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -457,7 +517,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -486,7 +546,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -515,7 +575,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -544,7 +604,7 @@
         {
           "key": "bovada",
           "title": "Bovada",
-          "last_update": "2026-10-18T20:56:28.646Z",
+          "last_update": "2026-10-18T22:47:35.364Z",
           "markets": [
             {
               "key": "h2h",
@@ -564,51 +624,27 @@
       ]
     },
     {
-      "id": "Shannon_Ryan_vs_Emma_Dolan",
+      "id": "Mike_Tyson_vs_Floyd_Mayweather_Jr",
       "sport_title": "Boxing",
-      "home_team": "Shannon Ryan",
-      "away_team": "Emma Dolan",
-      "commence_time": "2026-10-24T16:00:00.000Z",
+      "home_team": "Mike Tyson",
+      "away_team": "Floyd Mayweather Jr",
+      "commence_time": "2026-12-04T04:00:00.000Z",
       "bookmakers": [
         {
-          "key": "unibet",
-          "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-10-18T22:47:34.097Z",
           "markets": [
             {
               "key": "h2h",
               "outcomes": [
                 {
-                  "name": "Shannon Ryan",
-                  "price": -278
+                  "name": "Mike Tyson",
+                  "price": 597
                 },
                 {
-                  "name": "X",
-                  "price": 1500
-                },
-                {
-                  "name": "Emma Dolan",
-                  "price": 230
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "key": "betrivers",
-          "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
-          "markets": [
-            {
-              "key": "h2h",
-              "outcomes": [
-                {
-                  "name": "Shannon Ryan",
-                  "price": -305
-                },
-                {
-                  "name": "Emma Dolan",
-                  "price": 220
+                  "name": "Floyd Mayweather Jr",
+                  "price": -944
                 }
               ]
             }
@@ -617,16 +653,36 @@
       ]
     },
     {
-      "id": "Christian_Mbilli_vs_Canelo_Alvarez",
+      "id": "Canelo_Alvarez_vs_Christian_Mbilli",
       "sport_title": "Boxing",
-      "home_team": "Christian Mbilli",
-      "away_team": "Canelo Alvarez",
-      "commence_time": "2026-10-31T17:00:00.000Z",
+      "home_team": "Canelo Alvarez",
+      "away_team": "Christian Mbilli",
+      "commence_time": "2026-10-31T07:00:00.000Z",
       "bookmakers": [
+        {
+          "key": "pinnacle",
+          "title": "Pinnacle",
+          "last_update": "2026-10-18T22:47:34.097Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Christian Mbilli",
+                  "price": 229
+                },
+                {
+                  "name": "Canelo Alvarez",
+                  "price": -290
+                }
+              ]
+            }
+          ]
+        },
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -650,7 +706,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -670,6 +726,59 @@
       ]
     },
     {
+      "id": "Shannon_Ryan_vs_Emma_Dolan",
+      "sport_title": "Boxing",
+      "home_team": "Shannon Ryan",
+      "away_team": "Emma Dolan",
+      "commence_time": "2026-10-24T16:00:00.000Z",
+      "bookmakers": [
+        {
+          "key": "unibet",
+          "title": "Unibet",
+          "last_update": "2026-10-18T22:47:34.117Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shannon Ryan",
+                  "price": -278
+                },
+                {
+                  "name": "X",
+                  "price": 1500
+                },
+                {
+                  "name": "Emma Dolan",
+                  "price": 230
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "betrivers",
+          "title": "Betrivers",
+          "last_update": "2026-10-18T22:46:08.272Z",
+          "markets": [
+            {
+              "key": "h2h",
+              "outcomes": [
+                {
+                  "name": "Shannon Ryan",
+                  "price": -305
+                },
+                {
+                  "name": "Emma Dolan",
+                  "price": 220
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "Joshua_Buatsi_vs_Willy_Hutchinson",
       "sport_title": "Boxing",
       "home_team": "Joshua Buatsi",
@@ -679,7 +788,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -703,7 +812,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -732,7 +841,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -756,7 +865,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -785,7 +894,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -809,7 +918,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -838,7 +947,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -862,7 +971,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -891,7 +1000,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -915,7 +1024,7 @@
         {
           "key": "betrivers",
           "title": "Betrivers",
-          "last_update": "2026-10-18T20:55:22.303Z",
+          "last_update": "2026-10-18T22:46:08.272Z",
           "markets": [
             {
               "key": "h2h",
@@ -944,7 +1053,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -977,7 +1086,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1010,7 +1119,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1043,7 +1152,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1076,7 +1185,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1109,7 +1218,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1142,7 +1251,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1175,7 +1284,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1208,7 +1317,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1241,7 +1350,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
@@ -1274,7 +1383,7 @@
         {
           "key": "unibet",
           "title": "Unibet",
-          "last_update": "2026-10-18T20:56:33.578Z",
+          "last_update": "2026-10-18T22:47:34.117Z",
           "markets": [
             {
               "key": "h2h",
